@@ -12544,6 +12544,8 @@ libraries:
       attributes:
       - name: messaging.destination.name
         type: STRING
+      - name: messaging.destination.partition.id
+        type: STRING
       - name: messaging.operation
         type: STRING
       - name: messaging.system
